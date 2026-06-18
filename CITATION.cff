@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "RoOpenNLP: seturi de date si instrumente NLP deschise pentru limba romana"
+message: "Daca folosesti acest repository, te rugam sa il citezi."
+type: software
+authors:
+  - name: "Comunitatea RoOpenNLP"
+version: "0.1.0"
+date-released: "2026-06-18"
+license: MIT
+repository-code: "https://github.com/<organizatie>/ro-open-nlp"
+keywords:
+  - Romanian NLP
+  - named entity recognition
+  - speech recognition
+  - disinformation detection
+  - low-resource languages
+

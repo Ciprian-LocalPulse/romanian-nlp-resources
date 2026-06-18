@@ -1,0 +1,4 @@
+id,audio_path,transcript,duration_sec,speaker_id,split,license
+sp-001,audio/ro_sp_001.wav,Ana merge la biblioteca.,2.4,anon-001,train,CC0
+sp-002,audio/ro_sp_002.wav,Astazi testam un sistem speech-to-text pentru romana.,4.1,anon-002,validation,CC0
+

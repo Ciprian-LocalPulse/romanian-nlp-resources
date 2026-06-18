@@ -1,0 +1,14 @@
+labels:
+  PER: persoana
+  ORG: organizatie sau institutie
+  LOC: locatie geografica
+  GPE: entitate geopolitica
+  TIME: expresie temporala
+  DATE: data calendaristica
+  EVENT: eveniment
+  PRODUCT: produs
+  LAW: lege sau act normativ
+  WORK: opera, publicatie sau lucrare
+
+scheme: BIO
+

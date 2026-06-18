@@ -1,0 +1,4 @@
+  „Ana   lucrează la Universitatea din București.”  
+
+Acesta este un text de test cu spații neregulate și ghilimele românești.
+

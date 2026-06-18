@@ -1,0 +1,11 @@
+labels:
+  factual: afirmatie verificabila si sustinuta de dovezi
+  misleading: prezentare inselatoare, context lipsa sau exagerare
+  false: afirmatie contrazisa de dovezi solide
+  satire: continut umoristic sau satiric
+  opinion: opinie, interpretare sau comentariu
+  unverified: afirmatie neverificata in momentul adnotarii
+
+minimum_annotators: 2
+conflict_resolution: adjudecare de catre reviewer
+

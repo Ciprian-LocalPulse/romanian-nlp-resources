@@ -1,0 +1,24 @@
+project:
+  name: ro-open-nlp
+  language: ro
+
+normalization:
+  lowercase: false
+  unicode: NFC
+  strip_zero_width: true
+
+privacy:
+  mask_email: true
+  mask_phone: true
+  mask_cnp: true
+  mask_iban: true
+
+quality:
+  min_chars: 20
+  max_digit_ratio: 0.25
+  min_letter_ratio: 0.55
+
+deduplication:
+  exact: true
+  fuzzy_threshold: 0.92
+

@@ -1,0 +1,30 @@
+datasets:
+  - name: RONEC
+    task: named-entity-recognition
+    language: ro
+    license: verificati sursa oficiala
+    source_url: https://github.com/dumitrescustefan/ronec
+    status: external
+    notes: Corpus NER romanesc; import prin script separat, fara redistribuire automata.
+  - name: Common Voice Romanian
+    task: speech-to-text
+    language: ro
+    license: CC0 pentru release-urile publicate
+    source_url: https://commonvoice.mozilla.org/
+    status: external
+    notes: Verificati versiunea si metadatele inainte de publicarea derivatelor.
+  - name: RoCliCo
+    task: clickbait-detection
+    language: ro
+    license: verificati sursa oficiala
+    source_url: https://github.com/dariabroscoteanu/RoCliCo
+    status: external
+    notes: Corpus pentru clickbait romanesc.
+  - name: Sample Synthetic
+    task: tests
+    language: ro
+    license: MIT
+    source_url: local
+    status: included
+    notes: Doar pentru teste, nu pentru antrenare reala.
+

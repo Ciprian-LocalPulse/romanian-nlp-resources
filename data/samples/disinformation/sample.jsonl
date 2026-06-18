@@ -1,0 +1,4 @@
+{"annotator_notes":"exemplu sintetic pentru validare","evidence":["https://example.org/sursa"],"id":"disinfo-001","label":"unverified","lang":"ro","source":"sintetic","text":"Distribuie urgent: presa tace despre un presupus tratament miraculos."}
+{"annotator_notes":"titlu informativ sintetic","evidence":[],"id":"disinfo-002","label":"factual","lang":"ro","source":"sintetic","text":"Ministerul a publicat raportul anual privind calitatea aerului."}
+{"annotator_notes":"opinie marcata explicit","evidence":[],"id":"disinfo-003","label":"opinion","lang":"ro","source":"sintetic","text":"Cred ca educatia digitala ar trebui introdusa mai devreme in scoli."}
+

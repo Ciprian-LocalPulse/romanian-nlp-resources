@@ -1,0 +1,16 @@
+model:
+  base_model: dumitrescustefan/bert-base-romanian-cased-v1
+  task: token-classification
+
+training:
+  learning_rate: 0.00003
+  epochs: 5
+  batch_size: 16
+  seed: 42
+  metric: entity_f1
+
+data:
+  train: data/processed/ner_train.jsonl
+  validation: data/processed/ner_validation.jsonl
+  test: data/processed/ner_test.jsonl
+

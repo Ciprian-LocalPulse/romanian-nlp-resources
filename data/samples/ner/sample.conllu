@@ -1,0 +1,20 @@
+# sent_id = ro-ner-001
+# text = Ana lucrează la Universitatea din București .
+1	Ana	_	_	_	_	_	_	_	Ner=B-PER
+2	lucrează	_	_	_	_	_	_	_	Ner=O
+3	la	_	_	_	_	_	_	_	Ner=O
+4	Universitatea	_	_	_	_	_	_	_	Ner=B-ORG
+5	din	_	_	_	_	_	_	_	Ner=I-ORG
+6	București	_	_	_	_	_	_	_	Ner=I-ORG
+7	.	_	_	_	_	_	_	_	Ner=O
+
+# sent_id = ro-ner-002
+# text = Mihai a plecat spre Cluj-Napoca luni .
+1	Mihai	_	_	_	_	_	_	_	Ner=B-PER
+2	a	_	_	_	_	_	_	_	Ner=O
+3	plecat	_	_	_	_	_	_	_	Ner=O
+4	spre	_	_	_	_	_	_	_	Ner=O
+5	Cluj-Napoca	_	_	_	_	_	_	_	Ner=B-LOC
+6	luni	_	_	_	_	_	_	_	Ner=B-TIME
+7	.	_	_	_	_	_	_	_	Ner=O
+
