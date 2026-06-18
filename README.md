@@ -2,7 +2,7 @@
 
 # RoOpenNLP
 
-![romanian-nlp-resources](assets/romanian-nlp-resources.png)
+<img src="assets/romanian-nlp-resources.png" alt="romanian-nlp-resources" width="100%">
 
 ### Seturi de date, instrumente si modele NLP deschise pentru limba romana
 
@@ -12,6 +12,8 @@
 ![License](https://img.shields.io/badge/cod-MIT-111111?style=for-the-badge)
 
 **Un repository gratuit, reproductibil si extensibil pentru cercetatori, studenti, universitati si companii care lucreaza cu limba romana.**
+
+[Misiune](#misiune) • [Start rapid](#start-rapid) • [Module incluse](#module-incluse) • [Date si licente](#date-si-licente-recomandate) • [Cum poti contribui](#cum-poti-contribui) • [Sustine proiectul](#sustine-proiectul)
 
 </div>
 
@@ -55,19 +57,19 @@ ro-open-nlp speech-manifest data/samples/speech/manifest.csv --output data/inter
 
 ```text
 .
-├── configs/                  # configuratii pentru procesare si antrenare
-├── data/                     # raw/interim/processed + mostre versionabile
-├── docs/                     # ghiduri, metodologie, etica, licente
-├── models/cards/             # model cards pentru baseline-uri
-├── scripts/                  # utilitare CLI reproductibile
-├── src/ro_open_nlp/          # pachet Python
-├── tests/                    # teste unitare
-├── .github/                  # CI si template-uri
-├── CITATION.cff              # citare academica
-├── CONTRIBUTING.md           # cum contribui
-├── GOVERNANCE.md             # guvernanta proiectului
-├── LICENSE                   # licenta cod
-└── LICENSE-DATA.md           # recomandari licente date
+|-- configs/                  # configuratii pentru procesare si antrenare
+|-- data/                     # raw/interim/processed + mostre versionabile
+|-- docs/                     # ghiduri, metodologie, etica, licente
+|-- models/cards/             # model cards pentru baseline-uri
+|-- scripts/                  # utilitare CLI reproductibile
+|-- src/ro_open_nlp/          # pachet Python
+|-- tests/                    # teste unitare
+|-- .github/                  # CI si template-uri
+|-- CITATION.cff              # citare academica
+|-- CONTRIBUTING.md           # cum contribui
+|-- GOVERNANCE.md             # guvernanta proiectului
+|-- LICENSE                   # licenta cod
+`-- LICENSE-DATA.md           # recomandari licente date
 ```
 
 ---
@@ -138,6 +140,9 @@ ro-open-nlp validate data/samples/disinformation/sample.jsonl --schema disinform
 
 Contributiile financiare ajuta la gazduire, curatare de date, adnotare, validare si antrenare de modele.
 
+![Crypto](https://img.shields.io/badge/Crypto-ETH%20%7C%20BTC-3C3C3D?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Wise](https://img.shields.io/badge/Wise-Transfer%20bancar-37517E?style=for-the-badge&logo=wise&logoColor=9FE870)
+
 </div>
 
 <table>
@@ -193,6 +198,26 @@ bc1qf3yy0w8z37rwavxpu38wem3yffpanw7wzj32qj
 **Numar de cont:** 8314225367  
 **Swift/BIC:** CMFGUS33  
 **Adresa:** Community Federal Savings Bank, 89-16 Jamaica Ave, Woodhaven, NY, 11421, United States
+
+</td>
+</tr>
+<tr>
+<td>
+
+### Wise RON
+
+**Nume:** Ciprian Stefan Plesca  
+**IBAN:** RO94 BREL 0005 6026 8420 0100  
+**Tip:** Transfer local, intra-bancar din Romania
+
+</td>
+<td align="center">
+
+### Multumim
+
+*Fiecare contributie, indiferent de suma, ajuta direct la mentenanta si dezvoltarea RoOpenNLP.*
+
+![Made for Research](https://img.shields.io/badge/Made%20for-Cercetare-CE1126?style=for-the-badge)
 
 </td>
 </tr>
